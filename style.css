@@ -1,0 +1,147 @@
+#bannerSection{
+    background-image: url(./Images00/header-bg.png);
+    height: 120vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#bannerTextDiv{
+    margin-top: 12%;
+    width: 450px;
+}
+
+h3{
+    
+    color: #26296b;
+}
+
+#bannerTextDiv>div>div>div{
+    width: 40px;
+    height: 40px;
+}
+
+#youCanDoSection{
+    background-image: url(./Images00/You\ Can\ Do\ With\ Skilline.png);
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#youCanDoSection>div{
+    width: 500px;
+    padding-top: 5%;
+}
+
+hr{
+    width: 40px;
+    top: -3px;
+    left: 0;
+}
+
+footer{
+    background-color: #26296b;
+}
+
+#footerFormEmail{
+    background-color: #26296b;
+}
+
+#footerFormSubs{
+ background-color: #545ae7;
+}
+
+
+
+@media screen and (max-width:576px) {
+
+    #bannerSection{
+        height: 80vh;
+    }
+
+body{
+    text-align: center;
+}
+
+#bannerTextDiv{
+    margin-top: 50%;
+    width: 350px;
+}
+
+#youCanDoSection{
+    background-image: url(./Images00/You\ Can\ Do\ With\ Skilline02.png);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#youCanDoSection>div{
+    width:100%;
+    padding-top: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
